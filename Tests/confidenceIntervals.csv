@@ -1,0 +1,13 @@
+Algoritmo,n,Limite Inferior,Limite Superior
+Referência,3,0.026,0.03
+Referência,5,0.056,0.061
+Referência,10,0.105,0.113
+BC,3,0.009,0.015
+BC,5,0.007,0.009
+BC,10,0.01,0.014
+FC,3,0.177,0.191
+FC,5,0.209,0.218
+FC,10,0.226,0.231
+Híbrido,3,0.007,0.009
+Híbrido,5,0.016,0.021
+Híbrido,10,0.051,0.054

@@ -1,0 +1,19 @@
+Algoritmo 1,Algoritmo 2,n,p-value,p-value < 0.05
+Referência,BC,3,0.00018,True
+Referência,BC,5,0.00018,True
+Referência,BC,10,0.00018,True
+Referência,FC,3,0.00018,True
+Referência,FC,5,0.00018,True
+Referência,FC,10,0.00018,True
+Referência,Híbrido,3,0.00016,True
+Referência,Híbrido,5,0.00018,True
+Referência,Híbrido,10,0.00018,True
+BC,FC,3,0.00018,True
+BC,FC,5,0.00018,True
+BC,FC,10,0.00018,True
+BC,Híbrido,3,0.09667,False
+BC,Híbrido,5,0.00018,True
+BC,Híbrido,10,0.00018,True
+FC,Híbrido,3,0.00016,True
+FC,Híbrido,5,0.00018,True
+FC,Híbrido,10,0.00018,True
